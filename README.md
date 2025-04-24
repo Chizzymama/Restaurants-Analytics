@@ -25,13 +25,5 @@ Machine Learning Models: Regression, Random Forest
 
 Data Visualization: for communicating insights clearly
 
-Cleaned and processed messy transactional and customer datasets
-
-Visualized key trends using heatmaps, bar plots, and time series
-
-Developed predictive models with strong performance metrics
-
-Presented findings that can inform real-world restaurant strategies
-
 ## Conclusion 📌
 This capstone project shows how data-driven thinking can uncover hidden patterns, solve operational challenges, and unlock growth opportunities in the restaurant industry. It’s a hands-on example of applying data science to make a meaningful business impact.
